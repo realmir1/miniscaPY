@@ -24,7 +24,7 @@ python -m spacy download en_core_web_sm
 ### 2️⃣ Projeyi Çalıştırın
 Aşağıdaki komut ile uygulamayı başlatabilirsiniz:
 ```bash
-python main.py
+python spacy.py
 ```
 
 ## 📌 Kullanım
