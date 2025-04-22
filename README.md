@@ -36,5 +36,5 @@ python spacy.py
 Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylı bilgi için `LICENSE` dosyasına göz atabilirsiniz.
 
 ---
-💡 **Geliştirici**: [Senin Adın](https://github.com/kullaniciadi) | 📌 **Proje Linki**: [GitHub Repository](https://github.com/kullaniciadi/proje-adi)
+
 
